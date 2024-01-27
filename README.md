@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @spooky
+- 👀 I’m interested in Game Cheats and Botting
+- 🌱 I’m currently learning Python,c++ and html
+- 📫 How to reach me Discord:spookyisnice
