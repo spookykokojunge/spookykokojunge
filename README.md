@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @spooky
-- 👀 I’m interested in Game Cheats and Botting
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning c# and c++
 - 📫 How to reach me Discord:spookyisnice
 
