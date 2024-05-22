@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @spooky
 - 👀 I’m interested in Game Cheats and Botting
-- 🌱 I’m currently learning Python,c++ and html
+- 🌱 I’m currently learning c# and c++
 - 📫 How to reach me Discord:spookyisnice
 
 - ![Spooky's GitHub stats](https://github-readme-stats.vercel.app/api?username=spookykokojunge&show_icons=true&theme=radical)
