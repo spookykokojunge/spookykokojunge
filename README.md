@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spookykokojunge&label=Profile%20views&color=0e75b6&style=flat" alt="spookykokojunge" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spookykokojunge" alt="spookykokojunge" /></a> </p>
-
 - 🔭 I’m currently working on [CS2-External](https://github.com/spookykokojunge/CS2-External)
 
 - 🌱 I’m currently learning **C#,C++,Python and Html**
