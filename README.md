@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spookykokojunge&label=Profile%20views&color=0e75b6&style=flat" alt="spookykokojunge" /> </p>
 
-- 🔭 I’m currently working on [DmaHuntGlow(https://github.com/spookykokojunge/DmaHuntGlow)]
+- 🔭 I’m currently working on [DmaHuntGlow](https://github.com/spookykokojunge/DmaHuntGlow)
 
 - 🌱 I’m currently learning **C#,C++,Python and Html**
 
