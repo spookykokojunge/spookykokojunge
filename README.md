@@ -9,7 +9,7 @@
 
 - 📫 Discord **spookyisnice**
 
-- ⚡ Fun fact **if you can't beat them join them**
+- ⚡ Fun fact **Hard work pays off, but a hack pays faster.**
 
 <p align="left">
 </p>
