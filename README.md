@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [DmaHuntGlow](https://github.com/spookykokojunge/DmaHuntGlow)
 
-- 🌱 I’m currently learning **C#,C++,Python and Html**
+- 🌱 I’m currently learning **C++**
 
 - 📫 Discord **spookyisnice**
 
